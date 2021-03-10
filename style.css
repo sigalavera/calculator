@@ -1,0 +1,42 @@
+#mainTable {
+    border: 3px solid black;
+    width: 300px;
+    height: 350px;
+}
+
+#mainDiv {
+    height: 80px;
+    width: 411.5px;
+    border: 3px solid black;
+    background-color: rgb(176, 162, 189);
+    font-size: xx-large;
+}
+
+table tr {
+    display: flex;
+}
+
+#eqOperator input {
+    width: 100px;
+}
+
+.oper input {
+    background-color: rgb(198, 158, 235);
+    width: 100px;
+    height: 90px;
+    font-size: xx-large;
+}
+
+.num input {
+    background-color: rgb(176, 162, 189);
+    width: 100px;
+    height: 90px;
+    font-size: xx-large;
+}    
+
+#eqOperator{
+    width:202.5px;
+}
+#delOneNumber{
+    width:202.5px;
+}
